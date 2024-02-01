@@ -10,6 +10,6 @@ This is a super-simple starting place for Flutter projects.
 * maybe config and utils classes?
 
 ## NOTES
-(For detailed notes see NOTES.md)
+(For detailed notes see [NOTES.md](./NOTES.md) )
 
 Basically, there are 2 pages: Start and End, both stateless.  You can navgate between them.
