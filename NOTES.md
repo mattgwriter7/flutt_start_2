@@ -1,6 +1,6 @@
 # NOTES 
 This is a place for stuff that doesn't fit under 
-[README.md](./REDME.md) 
+[README.md](./README.md) 
 
 ## GOALS
 I wanted to make a simple boilerplate starter for my Flutter apps.
